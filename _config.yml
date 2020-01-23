@@ -1,0 +1,5 @@
+title: Marissa Childs
+
+remote_theme: "mmistakes/minimal-mistakes@4.17.2"
+
+plugins: jekyll-include-cache
