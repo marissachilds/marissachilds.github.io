@@ -1,8 +1,2 @@
----
-layout: pages
-title: #
-permalink: /
-author_profile: false
----
-
+Marissa Childs
 PhD candidate at Stanford University
