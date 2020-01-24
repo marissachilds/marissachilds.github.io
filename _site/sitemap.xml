@@ -7,10 +7,10 @@
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/publications/</loc>
+<loc>http://localhost:4000/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/</loc>
+<loc>http://localhost:4000/publications/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/files/Childs_CV_20191001.pdf</loc>
