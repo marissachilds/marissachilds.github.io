@@ -3,6 +3,9 @@ title: "Publications"
 permalink: /publications/
 ---
 
+![Yellow fever risk predictions](/images/Appendix2.gif)
+
+
 Nicole Nova, Ethan R. Deyle, Marta S. Shocket, Andrew J. MacDonald, **Marissa L. Childs**, Martin Rypdal, George Sugihara, Erin A. Mordecai (2019) Empirical dynamic modeling reveals ecological drivers of dengue dynamics. (under review) [bioRxiv preprint](https://doi.org/10.1101/2019.12.20.883363)
 
 **Marissa L. Childs**, Nicole Nova, Justine Colvin and Erin A. Mordecai (2019) ["Mosquito and primate ecology predict human risk of yellow fever virus spillover in Brazil"](https://doi.org/10.1098/rstb.2018.0335). Phil. Trans. R. Soc. B. 374. https://doi.org/10.1098/rstb.2018.0335
