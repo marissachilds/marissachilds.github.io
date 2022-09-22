@@ -3,7 +3,7 @@ title: "Publications"
 permalink: /publications/
 ---
 
-![Yellow fever risk predictions](/images/Appendix2.gif)
+![Smoke PM2.5 predictions](/images/smoke_animation_2020.gif)
 
 Marissa L Childs, Jessica Li, Jeff Wen, Sam Heft-Neal, Anne Driscoll, Sherrie Wang, Carlos F Gould, Minghao Qiu, Jennifer A Burney, and Marshall Burke. 2022. "Daily local-level estimates of ambient wildfire smoke PM2.5 for the contiguous US." Environmental Science & Technology. https://doi.org/10.1021/acs.est.2c02934 [data and replication code](https://github.com/echolab-stanford/daily-10km-smokePM) 
 
