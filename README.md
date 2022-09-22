@@ -1,2 +1,2 @@
 # marissachilds.github.io
-personal website
+website
