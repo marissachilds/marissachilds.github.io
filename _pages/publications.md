@@ -26,9 +26,9 @@ Tejas S Athni, Marta S Shocket, Lisa I Couper, Nicole Nova, Iain R Caldwell, Jam
 
 Marta S Shocket, Christopher B Anderson, Jamie M Caldwell, Marissa L Childs, Lisa I Couper, Songhee Han, Mallory J Harris, Meghan E Howard, Morgan P Kain, Andrew J MacDonald and Erin A Mordecai. 2021. “Environmental Drivers of Vector-Borne Diseases.” In Population Biology of Vector-Borne Diseases, 85–118. Oxford University Press.
 
-Marissa L Childs, Nicole Nova, Justine Colvin and Erin A Mordecai (2019) ["Mosquito and primate ecology predict human risk of yellow fever virus spillover in Brazil"](https://doi.org/10.1098/rstb.2018.0335). Philisophical Transactions of the Royal Society B, 374. https://doi.org/10.1098/rstb.2018.0335
+Marissa L Childs, Nicole Nova, Justine Colvin and Erin A Mordecai. 2019. ["Mosquito and primate ecology predict human risk of yellow fever virus spillover in Brazil"](https://doi.org/10.1098/rstb.2018.0335). Philisophical Transactions of the Royal Society B, 374. https://doi.org/10.1098/rstb.2018.0335
 
-Alex D. Washburne, Daniel E. Crowley, Daniel J. Becker, Kezia R. Manlove, Marissa L. Childs and Raina K. Plowright (2019) ["Percolation models of pathogen spillover"](http://doi.org/10.1098/rstb.2018.0331). Philisophical Transactions of the Royal Society B, 374. http://doi.org/10.1098/rstb.2018.0331
+Alex D. Washburne, Daniel E. Crowley, Daniel J. Becker, Kezia R. Manlove, Marissa L. Childs and Raina K. Plowright. 2019. ["Percolation models of pathogen spillover"](http://doi.org/10.1098/rstb.2018.0331). Philisophical Transactions of the Royal Society B, 374. http://doi.org/10.1098/rstb.2018.0331
 
-John H. Huber, Marissa L. Childs, Jamie M. Caldwell, Erin A. Mordecai (2018) ["Seasonal temperature variation influences climate suitability for dengue, chikungunya, and Zika transmission"](https://doi.org/10.1371/journal.pntd.0006451). PLOS Neglected Tropical Diseases, 12(5): e0006451. https://doi.org/10.1371/journal.pntd.0006451
+John H. Huber, Marissa L. Childs, Jamie M. Caldwell, Erin A. Mordecai. 2018. ["Seasonal temperature variation influences climate suitability for dengue, chikungunya, and Zika transmission"](https://doi.org/10.1371/journal.pntd.0006451). PLOS Neglected Tropical Diseases, 12(5): e0006451. https://doi.org/10.1371/journal.pntd.0006451
 
