@@ -4,6 +4,7 @@ permalink: /publications/
 ---
 
 ![Smoke PM2.5 predictions](/images/smoke_animation_2020.gif)
+
 *Animation of daily smoke PM2.5 predictions for 2020*
 
 
